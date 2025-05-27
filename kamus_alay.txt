@@ -1,4 +1,6 @@
+{
 "woww": "wow",
+"joko": "jokowidodo",
 "aminn": "amin",
 "met": "selamat",
 "netaas": "menetas",
@@ -4329,3 +4331,5 @@
 "gtau": "enggak tau",
 "fans2": "fan-fan",
 "gaharus": "enggak harus",
+
+}
